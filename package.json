@@ -1,0 +1,30 @@
+{
+  "name": "mysql-util",
+  "version": "1.0.0",
+  "description": "mysql table operation utility in Node.Js",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/imavdhoot4fb/mysql-util.git"
+  },
+  "keywords": [
+    "mysql",
+    "model",
+    "mysql-model",
+    "mysql-connector"
+  ],
+  "author": "Avdhoot",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "~0.7.2",
+    "util": "*",
+    "moment": "2.10.6"
+  },
+  "bugs": {
+    "url": "https://github.com/imavdhoot4fb/mysql-util/issues"
+  },
+  "homepage": "https://github.com/imavdhoot4fb/mysql-util#readme"
+}
