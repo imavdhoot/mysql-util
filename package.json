@@ -21,7 +21,7 @@
   "dependencies": {
     "debug": "~0.7.2",
     "util": "*",
-    "moment": "2.10.6"
+    "moment": "2.25.3"
   },
   "bugs": {
     "url": "https://github.com/imavdhoot4fb/mysql-util/issues"
